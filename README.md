@@ -10,13 +10,15 @@ High-Resolution Preview: Utilizes the CameraController for high-resolution live 
 
    ```sh
     git clone https://github.com/aryamanshrivastava/Realtime_Camera.git
+    
 2. Navigate to the project directory:
    ```sh
-    cd flutter-camera-app
+    cd Realtime_Camera
 
 3. Install dependencies:
    ```sh
      flutter pub get
+
 4. Run the Application:
    ```sh
     flutter run
