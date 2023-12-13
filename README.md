@@ -1,16 +1,22 @@
-# live_camera
+# Live Camera App📷
 
-A new Flutter project.
+This Live Camera App is an intuitive and user-friendly mobile application that leverages the camera functionality of mobile devices. Built with Flutter and integrating the camera package, it offers high-resolution camera previews and various camera controls.
 
-## Getting Started
+# Features
+High-Resolution Preview: Utilizes the CameraController for high-resolution live camera previews.
 
-This project is a starting point for a Flutter application.
+# Installation
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+   ```sh
+    git clone https://github.com/yourusername/flutter-camera-app.git
+2. Navigate to the project directory:
+   ```sh
+    cd flutter-camera-app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Install dependencies:
+   ```sh
+     flutter pub get
+4. Run the Application:
+   ```sh
+    flutter run
